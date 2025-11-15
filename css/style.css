@@ -1,0 +1,529 @@
+.btn-primary {padding: 14px 23px;background-color: #99a537;font-weight: 700;color: white;text-decoration: none;border-radius: 35px;font-size: 14px;border: none;}
+.btn-primary:hover{background-color:#223740;}
+.btn-outline-primary{color: white;font-size: 13px;font-weight: 700;text-decoration: none;border: 1px solid white;padding: 14px 43px;border-radius: 35px;margin-left: 10px;}
+.btn-outline-primary:hover{background-color:#223740;border: none;}
+.box1 p{background-color: #f4f5ec;display: inline;font-size: 19px;font-weight: 600;padding:5px 8px;border-radius: 26px;margin: 0px;color: #2a4049;}
+.box1 h3{color: #99a537;font-size: 50px;font-weight: 600;}
+.box1 h3 i{color: rgb(181, 172, 172);font-size: 80px;}
+
+
+.header-top{background-color:rgba(8, 1, 59, 0.988);}
+.header-top .header-top-content{display: flex;justify-content: space-between;align-items: center;padding: 10px 0px;align-items: center;}
+.header-top .header-top-content .header-top-right img{width: 20px;height: 20px;}
+.header-top .header-top-content .header-top-right{display:flex;color: white;align-items: center;}
+.header-top .header-top-content .account-right{display: flex;margin-left: 25px;gap: 10px;align-items: center;}
+.header-top .header-top-content .account h4{margin: 0px;font-size: 15px;font-weight: 600;color:white;}
+.header-top .header-top-content .account p{font-size: 12px;}
+.header-top .header-top-content .header-top-right p{margin: 0px;}
+.header-top .header-top-content .header-top-left{display: flex}
+.header-top .header-top-content .header-top-left a{color: white;text-decoration: none;font-size: 15px;font-weight: 600;margin-right: 15px;display: flex;align-items: center;gap: 8px;}
+.header-top .header-top-content .header-top-left a i{color: rgb(153, 165, 55);font-size: 18px;}
+
+
+.navbar form{width: 200px;}
+.navbar .navbar-nav .nav-link{padding: 15px 25px !important;font-weight: 700;color: #223740;}
+.navbar-expand-lg .navbar-nav{width: 100%;justify-content: space-between;}
+.navbar .navbar-nav .nav-link:hover{color: #99a537;}
+
+.banner{background-image:url(../image/pexels-pixabay-531234.jpg);background-position: center;background-size: cover;padding: 100px 0px;opacity: 1;}
+.banner .banner-content .banner-top{color: white;background-color: #2a2626b2;width: 60%;padding:0px 20px 60px 25px;border-radius: 30px;}
+.banner .banner-content .banner-top p{font-weight: 600;font-size: 15px;padding: 20px 0px;}
+.banner .banner-content .banner-right h6{font-size: 20px;font-weight: 600;}
+.banner .banner-content .banner-top h1{font-size: 70px;font-weight: 700;}
+.banner .banner-content .banner-top img{width: 12%;margin-top: 8px;}
+.banner .banner-content .banner-top .banner-image {display: flex;align-items: center;gap: 20px;}
+.banner .banner-content .button .btn-primary{padding: 16px 40px;font-size: 13px;}
+
+
+.landscap{background-color: #223740;padding-bottom: 60px;}
+.landscap .landscap-content .landscap-1 {color:white;background-color:rgb(153, 165, 55);padding: 30px 12px;position: relative;bottom: 50px;border-radius: 10px;}
+.landscap .landscap-content .landscap-image{display: flex;gap: 10px;align-items: center;}
+.landscap .landscap-content .landscap-image .image{background-color: #223740;border-radius: 50px;height: 70px;width: 70px;text-align: center;padding-top: 10px;margin-bottom: 25px;}
+.landscap .landscap-content .landscap-image .image img{width: 70%;}
+.landscap .landscap-content .landscap-1  h3{font-size:35px;font-weight: 600;}
+.landscap .landscap-content .landscap-1 p{font-size:16px;font-weight: 500;}
+.landscap .landscap-content .commercial-landscap{padding: 15px 5px;}
+.landscap .landscap-content .landscap-1 h6{font-size: 18px;font-weight: 500;margin-left: 30px;}
+.landscap .landscap-content .award img{width: 30%;}
+.landscap .landscap-content .award h3{font-size: 22px;font-weight: 600;margin: 0px;}
+.landscap .landscap-content .award{text-align: center;background-color: white;border-radius:10px;position: relative;bottom: 50px;padding: 36px 0px;}
+.landscap .landscap-content .services{padding: 50px 0px;}
+.landscap .landscap-content .services .box1 p{color: white;font-size: 16px;font-weight: 600;border: 1px solid transparent;background-color: #2a4049;width: 20%;padding: 10px; border-radius: 20px;text-align: center;}
+.landscap .landscap-content h2{color: #99a537;font-size: 50px;font-weight: 600;}
+.landscap .landscap-content .our-serice p{border: 2px solid #99a537;width: 15%;border-radius: 20px;}
+.landscap .landscap-content .our-serice h6{color: white;font-size: 18px;font-weight: 500;}
+.landscap .landscap-content .card-image img{width: 100%;}
+.landscap .landscap-content .card-image{margin: 0 auto;border: 2px dotted #99a537; border-radius: 65px;padding: 30px;}
+.landscap .landscap-content .card{text-align: center;padding: 30px 0px;}
+.landscap .landscap-content .card:hover{background-color: #223740;border-color: #99a537;color: white;}
+.landscap .landscap-content .card:hover h5{color: white;font-weight: 600;}
+.landscap .landscap-content .card-body p{color: gray;font-size: 14px;font-weight: 600;}
+.landscap .landscap-content .card:hover p{color: white;}
+.landscap .landscap-content .card-body a{font-weight: 600;}
+.landscap .landscap-content .card:hover a{color: white;}
+.landscap .landscap-content .card-body a i{color: #99a537;}
+.landscap .landscap-content .box{display: flex;justify-content: center;gap: 8px;padding-top: 60px;}
+.landscap .landscap-content .box p{width: 12px;height: 12px;border-radius: 50px;background-color: white;}
+.landscap .landscap-content .box p:hover{background-color: #99a537;}
+
+
+.care-professional{padding-top:60px;}
+.care-professional .care-professional-content .care-image img{width: 100%;}
+.care-professional .care-professional-content .care-image{position: relative;}
+.care-professional .care-professional-content .care-image .carex {position: absolute; top: 40px;left: -120px;}
+.care-professional .care-professional-content .shurb-lawn-care h6{margin-bottom: 20px;font-size: 18px;font-weight: 500;background-color: rgb(234, 232, 232);width: 25%;padding: 9px;border-radius: 15px;}
+.care-professional .care-professional-content .shurb-lawn-care h3{margin-bottom: 20px;font-weight: 600;color: #99a537;font-size: 50px;}
+.care-professional .care-professional-content .shurb-lawn-care p{color: rgb(89, 88, 88);font-size: 16px;font-weight: 500;margin-bottom: 15px;}
+.care-professional .care-professional-content .shurb-lawn-care .approach{display: flex;gap: 15px;}
+.care-professional .care-professional-content .shurb-lawn-care .approach img{object-fit: contain;margin-bottom: 30px;}
+.care-professional .care-professional-content .shurb-lawn-care .media-image{display: flex;gap: 15px;}
+.care-professional .care-professional-content .shurb-lawn-care .media-image img{object-fit: contain;}
+.care-professional .care-professional-content .shurb-lawn-care .our-approach h2{font-size: 26px;font-weight: 600;margin-top: 20px;}
+.care-professional .care-professional-content  .shurb-lawn-care .social-media h2{font-size: 35px;font-weight: 600;margin-top: 25px;}
+
+
+.features {padding: 60px 0px;background-color: #e9eadd;}
+.features .our-feature-content .our-serice p{border: 2px solid #99a537;width: 15%;}
+.features .our-feature-content .our-serice h6{font-size: 20px;font-weight: 500;color: #2a4049;}
+.features .our-feature-content .card-image{display: flex;justify-content: space-between;align-items: center;} 
+.features .our-feature-content .card-image img{width: 25%;object-fit: contain;margin-left: 11px;}
+.features .our-feature-content .card{height: 270px;padding:18px 25px;}
+.features .our-feature-content .number p{font-size: 40px;color: gainsboro;font-weight: 600;}
+.features .our-feature-content .card-body h5{font-size: 25px;font-weight: 600;color: #2a4049;}
+.features .our-feature-content .card-body h5:hover{color: #99a537;}
+.features .our-feature-content .card-body p{font-size: 16px;font-weight: 500;color:#565753}
+.features .our-feature-content .openions img{background-color: #223740;}
+
+
+.offers{background-color: #223740;}
+.offers .offer-content .emergency{background-image: url(../image/new\ image.jpeg);background-position: center;object-fit: cover;background-size: cover;padding: 150px;}
+.offers .offer-content .row .form-box{display: flex;justify-content: center;background-image: url(../image/banner-4\ search.png);background-size: cover;background-position: center;align-items: center;}
+.offers .offer-content .service{background-color: white;padding: 40px 30px;border-radius: 10px;width: 100%;position: relative;top: 110px;}
+.offers .offer-content .service .time h4{font-size: 27px;font-weight: 600;margin-left: 15px;}
+.offers .offer-content .service .time{align-items: center;}
+.offers .offer-content .service p{font-size: 19px;font-weight: 500;color: #565753;}
+.offers .offer-content .service h6{font-size: 30px;color: #223740;}
+.offers .offer-content .service h6 i{color: #99a537;}
+.offers .offer-content .offer-action input{color: #fff;background-color: #223740;font-size: 16px;font-weight: 600;border:1px solid #626262;padding: 13px 20px;border-radius: 10px;margin:10px;}
+.offers .offer-content .offer-action input::placeholder{color: #ffffff;}
+.offers .offer-content .offer-action{padding: 50px 0px;}
+.offers .offer-content .offer-action select{background-color: #223740;color: #fff;font-size: 16px;font-weight: 600;border: 1px solid #626262;padding: 12px 20px;border-radius: 10px;margin:9px;width: 42%;}
+.offers .offer-content textarea{background-color: #223740;border: 1px solid #626262;padding: 20px;resize: none;}
+.offers .offer-content textarea::placeholder{color: #ffffff;font-size: 16px;font-weight: 600;}
+.offers .offer-content .offer-action label{color: white;font-weight: 600;font-size: 14px;}
+.offers .offer-content .offer-action .btn{color: white;font-size: 18px;font-weight: 600;border: 1px solid #626262;padding: 10px 15px;background-color: #223740;border-radius: 10px;margin: 20px;} 
+.offers .offer-content .offer-action .btn:hover{background-color: #e9eadd;color: black;}
+
+
+
+.gallery{padding: 70px 0px;}
+.gallery .gallery-content .box1 p{width: 20%;}
+.our-serice p{width: 10%;border: 2px solid #99a537;border-radius: 10px;}
+.gallery .gallery-content .latest-gallry img{width: 100%;margin-bottom: 25px;border-radius: 10px;}
+.gallery .gallery-content .latest-gallry img:hover{transform: scale(1.1)}
+
+
+
+.rating {position: relative;background-image: url(../image/rating.jpg);padding: 60px 0; background-position: center;background-size: cover;z-index: 1;background-attachment: fixed}
+.rating::before {content: "";position: absolute;top: 0;left: 0;width: 100%;height: 100%; background-color: rgba(34, 55, 64, 0.7); /* dark overlay */z-index: -1;}
+.rating .rating-content .image .number h3{color: white;font-size: 60px;font-weight: 700;}
+.rating .rating-content .image p{font-size:21px;color: white;font-weight: 600;}
+.rating .rating-content .image .number i{font-size: 35px;font-weight: 600;}
+.rating .rating-content .image .number{align-items: center;}
+
+
+.customer{padding: 60px 0px;}
+.customer .customer-content .testimonial{text-align: center;}
+.customer .customer-content .testimonial h5{font-size: 19px;font-weight: 600;margin: 0 auto;background-color: #f4f5ef;padding: 6px 11px;width: 11%;border-radius: 20px;margin-bottom: 15px;}
+.customer .customer-content .testimonial h3{font-size: 50px;color: #99a537;font-weight: 600;margin-bottom: 30px;}
+.customer .customer-content .our-customer{background-color:#99a537;padding: 15px 50px;border-radius: 10px;}
+.customer .customer-content .our-customer:hover{background-color: rgb(46, 38, 38);}
+.customer .customer-content .our-customer p{color: white;}
+.customer .customer-content .our-customer .left-image{display: flex;justify-content: space-between;}
+.customer .customer-content .our-customer .left-image img{width:35%;}
+.customer .customer-content .our-customer .right-image img{width: 90%;margin-top: 17px;}
+.customer .customer-content .customer {display: flex;align-items: center;gap: 17px;padding: 0px;margin-left: 50px;margin-top: 20px;}
+.customer .customer-content .customer img{height: 80px;border-radius: 50px;width: 80px;}
+.customer .customer-content .customer .customer-rat h4{font-weight: 600;}
+.customer .customer-content .customer .customer-rat p{font-size: 18px;color: #99a537;}
+.customer .customer-content .line{border: 1px solid rgb(219, 215, 215);padding: 2px 0px;margin-top: 30px;border-radius: 20px;background-color: #99a537;}
+
+
+
+.team-lawnella{background-color: #e9eadd;padding: 60px 0px;}
+.team-lawnella .lawnella-content .expert-team{background-color: white;border-radius: 10px;text-align: center;padding: 25px 0px;}
+.team-lawnella .lawnella-content .expert-team .team-member img{width: 85%;border-radius: 12px;}
+.team-lawnella .lawnella-content .expert-team .team-member .xx{background-color: #99a537;color: white;position: relative;top: -40px;width: 70%;margin: 0 auto;border-radius: 12px;padding: 3px 18px;}
+.team-lawnella .lawnella-content .expert-team .team-member .xx h4{font-size: 25px;font-weight: 600;}
+.team-lawnella .lawnella-content .expert-team p{color: rgb(83, 80, 80);}
+.team-lawnella .lawnella-content .expert-team i{color: #99a537;border: 1px dashed rgb(189, 187, 187);width: 40px;height: 40px;border-radius: 40px;padding: 11px 2px;font-size: 18px;}
+
+
+.experience-lawnshaper{background-image: url(../image/get-a-quote-home-1-bg.jpg);background-position: center;background-size: cover;padding: 100px 0px;}
+.experience-lawnshaper .experience-content {text-align: center;}
+.experience-lawnshaper .experience-content h3{color: white;font-size: 60px;font-weight:600;margin-bottom: 25px;}
+
+
+.our-blog{padding: 60px 0px;}
+.our-blog .blog-content .card .date{display: flex;gap: 30px;background-color: white;padding: 5px 20px;border-radius: 10px;margin-top:-40px;}
+.our-blog .blog-content .card .date p{font-size: 14px;color:#888888;font-weight: 500;}
+.our-blog .blog-content .card .date p i{color: #99a537;}
+.our-blog .blog-content .card .card-body .box2{display: flex;justify-content: space-between;margin-top: 20px;color: #888888;align-items: center;}
+.our-blog .blog-content .card .card-body h5{padding: 0px 20px;font-size: 23px;font-weight: bold;}
+.our-blog .blog-content .card .card-body .box2 .btn-secondry{color:#888888;font-size: 14px;font-weight: 600;}
+.our-blog .blog-content .card .card-body .box2 .btn-secondry i{color: #223740;}
+.our-blog .blog-content .card .card-body .box2 .btn-secondry:hover{color: #99a537;}
+.our-blog .blog-content .card .card-body .box2 p{margin: 0;background-color:#ebe4e4;border-radius: 20px;padding: 3px 15px;font-size: 12px;}
+
+
+.swiper-slider {background-color: #bebbbb;padding: 50px 0px;}
+.swiper-slider .swiper-slider-content img{width: 100%;margin-top: 30px}
+.swiper-slider .swiper-slider-content p{background-color: #99a537;color: white;visibility: hidden;font-weight: 600;padding: 12px 78px;border-radius: 10px;border: 1px dashed;font-size: 18px;}
+.swiper-slider .swiper-slider-content  .col:hover p{visibility: visible;}
+
+
+
+.new-update{background-color: #223740;color: white;}
+.new-update .content .updates p{font-size: 22px;font-weight: 600;width: 55%;}
+.new-update .content .updates{display: flex;padding: 20px ;align-items: center;}
+.new-update .content .updates .search{width: 45%;}
+.new-update .content .updates .search input{padding: 10px;border-radius: 10px;border: none;width: 60%;}
+.new-update .content .updates .search button{color: white;background-color: #99a537;padding: 11px 20px;border-radius: 12px;font-size: 16px;font-weight: 600;border: none;width: 35%;}
+
+.footer{background-color: #7D8928;color: white;}
+.footer .footer-content .footer-image img{width: 60%;margin-bottom: 20px;}
+.footer .footer-content {padding-top:80px}
+.footer .footer-content .footer-image p{font-size: 17px;}
+.footer .footer-content .footer-image a{color: white;font-size: 15px;font-weight: bold;text-decoration: none;}
+.footer .footer-content .link h3{font-size: 21px;font-weight: 600;}
+.footer .footer-content .link  ul{padding: 0px;}
+.footer .footer-content .link li{list-style-type: none;margin-top: 20px;font-weight: 600;}
+.footer .footer-content .footer-img img{width: 100px;height: 100px;object-fit: cover;border-radius: 10px;}
+.footer .footer-content .footer-img{display: flex;gap: 10px;padding: 20px 0px;}
+.footer .footer-content .footer-img .box3 p{font-size: 15px;font-weight: 500;}
+.footer .footer-content .footer-img .box3 h3{font-size: 18px;color: white;font-weight: 600;}
+.footer .footer-content .footer-img .box3 a{text-decoration: none;}
+.footer .footer-content h3{font-size: 21px;font-weight: 600;}
+.footer .footer-content .footer-right a{color:white;text-decoration: none;font-size: 26px;font-weight: 600;}
+.footer .footer-content .footer-right .time{display: flex;gap: 25px;padding: 30px 0px;}
+.footer .footer-content .footer-right .time p{margin: 0 auto;font-weight: 500;}
+.footer .footer-content .footer-right .time h6{font-size: 16px;font-weight: 600;}
+.footer .footer-content  .footer-right h6{font-size: 17px;font-weight: 600;}
+.footer .footer-content  .footer-right p{font-size: 15px;font-weight: 600;}
+.footer .footer-content  .footer-right{padding: 30px 0px;}
+
+.footer-line{display: flex;justify-content: space-between;}
+.footer-line .box5{display: flex;gap: 20px;font-size: 17px;font-weight: 600;}
+.footer-line p{font-size: 17px;font-weight: 600;}
+
+/* .................About-us-page.................................................................. */
+/* ............................................................................................................ */
+.about-us-button{color: white;font-size: 17px;font-weight: 600;background-color: #99a537;text-decoration: none;padding: 15px 30px;border-radius: 30px;}
+
+.about-us-banner{background-image: url(../image/about-us-4.jpg);background-position: center;background-size:cover;padding: 100px 0px 100px;position: relative;z-index: 1;}
+.about-us-content::before{position: absolute;right: 0;left: 0;bottom: 0;top: 0;background-color: #223740;opacity: 0.7;z-index: -1;content: "";}
+.about-us-banner .about-us-content .banner-1 h3{color: white;font-size: 59px;font-weight: 600;}
+.about-us-banner .about-us-content  ol  li{color: white;font-size: 19px;font-weight: 500;}
+.about-us-banner .about-us-content  ol  li a{color: white;text-decoration: none;}
+.breadcrumb-item + .breadcrumb-item::before{color: white;}
+.our-company {background-color:#F4F5EC;overflow: hidden;}
+.our-company  h2{font-size: 55px;background-color: white;padding: 45px 0px;font-weight:600;width: 109%;color: #2a4049;}
+.our-company .company-content .lawnscap-system h3{font-size: 42px;color: #2a4049;font-weight: 600;margin-bottom: 20px;}
+.our-company .company-content .lawnscap-system p{font-size: 17px;color: #626262;margin-bottom: 20px;}
+.our-company .company-content {padding-top: 60px;}
+.our-company .company-content .us-diffrence {padding: 10px 0px;}
+.our-company .company-content .us-diffrence h3{color: #2a4049;font-size: 33px;font-weight:600 ;}
+.our-company .company-content .us-diffrence .diffrences ul{list-style-type: none;margin-top: 10px;padding: 0px;}
+.our-company .company-content .us-diffrence .diffrences ul li{padding: 10px 0px;}
+.our-company .company-content .us-diffrence .diffrences ul li a{text-decoration: none;color: #565753;font-size: 17px;font-weight: 600;}
+.our-company .company-content .us-diffrence .diffrences ul li a i{color: #99a537;font-size: 20px;margin-right: 10px;}
+.our-company .company-content .lawn-left{background-color: white;padding: 64px 30px;border-radius: 30px 30px 0px 0px;}
+.our-company .company-content .lawnshaper-image .image img{width: 100%;border-radius: 30px 30px 0px 0px;}
+.our-company .company-content .lawnshaper-image h4{font-size: 28px;color: #2a4049;font-weight: 600;margin-top: 20px;}
+.our-company .company-content .lawnshaper-image h3{font-size: 41px;color: #99a537;font-weight: 600;}
+.our-company .company-content .lawnshaper-image p{color: #626262;font-size: 16px;margin-top: 20px;padding-bottom: 40px;}
+.innovation-design{background-color: #223740;padding: 70px 0px;}
+.innovation-design  .design-content h3{color: white;font-size: 50px;font-weight: 600;margin-bottom: 30px;}
+.innovation-design  .design-content .card{color: white;background-color: #2a4049;padding: 30px;border-radius: 15px;}
+.innovation-design  .design-content  .card img{width: 30%;border-radius: 35px;padding: 11px;background-color:#335260;margin-bottom: 20px;}
+.innovation-design  .design-content  .card  h4{font-weight: 600;font-size: 25px;}
+.innovation-design  .design-content  .card p{font-size: 15px;font-weight:500;}
+.process {padding: 70px 0px;}
+.process .process-content .proces-image{display: flex;flex-direction: column;}
+.process .process-content .proces-image img{height: 350px;object-position: center;object-fit: cover;margin-bottom: 20px;border-radius: 15px;}
+.process .process-content .process-image-2 img{width: 100%;height: 600px;object-fit: cover;border-radius: 15px;}
+.process .process-content .process-image-2 h3{position: absolute;transform: rotate( 180deg);letter-spacing: 5px;bottom: 129px;top: 40px;font-size: 72px;color: #e9eee200;writing-mode: tb-rl;left: -75px;-webkit-text-stroke: 1px #E5E6DD;}
+.process .process-content .process-image-2{position: relative;}
+.process .process-content .outdoor-spacing i{color: white;background-color: #99a537;font-size: 40px;border-radius: 50%;height: 60px;width: 60px;padding: 12px;}
+.process .process-content .outdoor-spacing {display:flex;gap: 20px;padding-top: 30px;}
+.process .process-content .outdoor-spacing .expertise h4{color: #2a4049;font-size: 27px;font-weight: 600;}
+.process .process-content .outdoor-spacing .expertise p{color: gray;font-size: 15px;}
+.process .process-content .landscape-dream p{color: #7D8928;font-size: 18px;font-weight: 700;}
+.process .process-content .landscape-dream p i{margin-right: 8px;font-size: 19px;}
+.process .process-content .landscape-dream{margin-bottom: 30px;}
+.process .process-content .landscape-dream h3{color: #223740;font-size: 47px;font-weight: 700;}
+.process .process-content .accordion-flush .accordion-item i{color: #99a537;font-size: 22px;margin-right: 15px;}
+.process .process-content .accordion-flush .accordion-item .collapsed{font-size: 22px;color: #2a4049;font-weight: 600;border-radius: 15px;}
+.process .process-content .accordion-flush .accordion-item  .accordion-header{box-shadow :1px 0px 4px 3px whitesmoke;margin-bottom: 30px;}
+.process .process-content .col-5{padding-top: 110px;}
+.process .process-content .accordion-flush .accordion-item .accordion-button:hover{background-color: #2a4049;color: white;padding: 25px;}
+.process .process-content .accordion-flush .accordion-item{border: none;}
+.process .process-content .accordion-flush .accordion-item .accordion-button{border-radius: 15px;}
+.process .process-content .accordion-flush .accordion-item .accordion-body .accor-content{display: flex;gap: 20px;}
+.process .process-content .accordion-flush .accordion-item .accordion-body .accor-content img{width: 100%;}
+.process .process-content .accordion-flush .accordion-item .accor-text i{margin-right:3px;}
+.process .process-content .accordion-flush .accordion-item .accor-text a{text-decoration: none;color: #2a4049;font-weight: 700;}
+.process .process-content .accordion-flush .accordion-item .accor-text p{font-size: 17px;color: gray;}
+.our-feedback .our-feedback-content .feedback h5{color: #7D8928;font-weight: 700;font-size:18px;}
+.our-feedback .our-feedback-content .feedback h5 i{margin-right: 5px;}
+.our-feedback .our-feedback-content .feedback h3{color: #2a4049;font-size: 45px; font-weight: 600;}
+.our-feedback .our-feedback-content .feedback h3 span{color: #7D8928;font-weight: 500;}
+.our-feedback .our-feedback-content .feedback p{color: #626262;font-size: 17px;}
+.our-feedback .our-feedback-content .social-media img{width:40px;height: 40px;}
+.our-feedback .our-feedback-content .social-media h4{color: #2a4049;font-size: 19px;font-weight: 600;}
+.our-feedback .our-feedback-content .social-media p{font-size: 13px;color: #626262;font-weight: 600;margin: 0 auto;}
+.our-feedback .our-feedback-content .social-media{display: flex;gap: 15px;background-color:#e9eadd;padding: 5px 20px;align-items: center;width: 55%;border-radius: 15px 0px 0px 15px;}
+.our-feedback .our-feedback-content .social-med{display: flex;justify-content: space-between;}
+.our-feedback .our-feedback-content .feedback-rating{background-color: #2a4049;padding: 5px 20px;width: 45%;border-radius:0px 15px 15px 0px;color: white;}
+.our-feedback .our-feedback-content .feedback-rating .rating-feed{display: flex;}
+.our-feedback .our-feedback-content .feedback-rating .rating-feed h4{font-size: 36px;font-weight:600;margin-right: 10px;}
+.our-feedback .our-feedback-content .feedback-rating .rating-feed a{text-decoration: none;}
+.our-feedback .our-feedback-content .feedback-rating .rating-feed a i{color: #7D8928;font-size: 10px;padding-top: 25px;}
+.our-feedback .our-feedback-content .feedback-rating p{font-size: 13px;color: #626262;margin: 0 auto;}
+.our-feedback .our-feedback-content .review .rating-star {display: flex;gap: 3px;justify-content: flex-end;}
+.our-feedback .our-feedback-content .review .rating-star i{color: #7D8928;}
+.our-feedback .our-feedback-content .review {background-color: #e7e8e1;padding:20px;border-radius: 15px;}
+.our-feedback .our-feedback-content .review  h3{font-size: 19px;font-weight: 600;color: #2a4049;}
+.our-feedback .our-feedback-content .review  p{font-size: 15px;color: gray;}
+.our-feedback .our-feedback-content .review .customers img{width: 30%;border-radius: 50%;height: 60px;width: 60px;object-fit: cover;}
+.our-feedback .our-feedback-content .review .customers {display: flex;gap: 15px;background-color: white;padding: 7px 12px;border-radius: 15px;align-items: center;justify-content: space-between;}
+.our-feedback .our-feedback-content .review .customers .box-1 h4{margin: 0 auto;font-size: 17px;font-weight: 600;}
+.our-feedback .our-feedback-content .review .customers .box-1 p{font-size: 14px;color: #4c6974;margin: 0 auto;}
+.our-feedback .our-feedback-content .review .customers .rght-image{display: flex;justify-content: end;}
+.our-feedback .our-feedback-content .review .customers .user-detail{display: flex;gap: 15px;align-items: center;}
+.our-feedback {padding-bottom: 50px;}
+
+/* .......................................................................................................... */
+
+
+
+/* .........................services........................................................................................................................................................................... */
+/* ................................................................................................................................................................................................................ */
+.about-us-banner{background-image: url(../image/services-header.jpg);background-position: center;background-size:cover;padding: 100px 0px 100px;position: relative;z-index: 1;}
+.special-gardening{padding: 60px 0px;}
+.special-gardening .special-content .card-title{background-color: #f4f5ec;padding: 12px 25px;color: #335260;font-size: 23px;font-weight: 700;border-radius: 10px;width: 95%;margin: 8px;}
+.special-gardening .special-content .card-title i{position:relative;font-size: 18px;bottom: 2px;margin-left: -21px;z-index: 2;}
+.special-gardening .special-content .card-title span{color: #7D8928;position: relative;z-index: 1;}
+.special-gardening .special-content .gardening{color: #7D8928;font-size: 18px;text-decoration: none;}
+.special-gardening .special-content .card-text {color:#4c6974;font-size: 16px;margin-top: 15px;}
+.special-gardening .special-content .btn-primary{background-color: transparent;color: #335260;font-size: 16px;padding: 0px;}
+.special-gardening .special-content .btn-primary i{color: #7D8928;font-size: 18px;}
+.special-gardening .special-content .card{padding: 5px 15px 200px 15px;position: relative;margin-bottom: 60px;border-radius: 15px;}
+.special-gardening .special-content .card:hover{background-color: #2a4049;color: white; transition: .4s;}
+.special-gardening .special-content .card:hover p{color: white;}
+.special-gardening .special-content .card:hover a{color: white;}
+.special-gardening .special-content .col-4{margin-bottom: 25px;}
+.special-gardening .special-content .special-image{position: absolute;bottom: -100px;width: 85%;left: 31px;margin-bottom: 55px;}
+.special-gardening .special-content .special-image img{border-radius: 15px;}
+.special-gardening .special-content .special-image .hide-image-1{position:absolute;bottom: 160px;left: 260px;}
+.special-gardening .special-content .card .hide-image-1 {display: none;transition: .4s;}
+.special-gardening .special-content .card:hover .hide-image-1 {display: block;transition: .4s;}
+.special-gardening .special-content .card:hover .hide-image-2{display: none;transition: .4s;}
+.special-gardening .special-content .special-image .hide-image-1 img{background-color:#7D8928;width: 70%;padding: 5px 4px;border-radius: 5px;}
+.special-gardening .special-content .special-image .hide-image-2{position: absolute;bottom: 15px;left: 260px;}
+.special-gardening .special-content .special-image .hide-image-2 img{width: 65%;padding: 5px 4px;border-radius: 10px;left: 11px;background-color: white;border-radius: 5px;}
+.special-gardening .special-content .card-img-top{height: 250px;object-fit: cover;}
+/* ....................................................................................................................................................................................................................... */
+/* .................................................Contact........................................................................................................................................... */
+.nearest-location{padding: 70px 0px;}
+.nearest-location .nearest-content .location h2{font-weight: 600;}
+.nearest-location .nearest-content .location {display: flex;justify-content: space-between;}
+.nearest-location .nearest-content .location .new-location h6{margin-top: 54px;margin-right: 24px;font-size: 17px;color: gray;}
+.nearest-location .nearest-content .back-image{background-image: url(../image/map-bg.png)}
+.nearest-location .nearest-content .map-fram :hover{border-radius: 100%;transition :1s;width: 600px;height: 600px;}
+.nearest-location .nearest-content .popular-locations a{font-size: 28px;text-decoration: none;font-weight: 600;color:rgb(163, 161, 161)}
+.nearest-location .nearest-content .popular-locations a span{color: #7D8928;}
+.nearest-location .nearest-content .popular-locations .find-location h4{font-size: 18px;font-weight: 600;margin-bottom: 10px;}
+.nearest-location .nearest-content .popular-locations .find-location p{font-size: 17px;color: #626262;}
+.nearest-location .nearest-content .popular-locations .find-location a{font-size: 18px;color: #626262;font-weight: 500;}
+.nearest-location .nearest-content .popular-locations .find-location{padding-bottom: 10px;}
+.nearest-location .nearest-content .popular-locations h3{font-size: 32px;font-weight: 600;margin: 15px 0px;}
+.nearest-location .nearest-content .detail-form label{font-size: 17px;font-weight: 600;margin-bottom: 10px;color: #626262;}
+.nearest-location .nearest-content .detail-form input{padding: 10px 15px;border-radius: 10px;border: 1px solid rgb(223, 222, 222);margin-bottom: 10px;width: 95%;}
+.nearest-location .nearest-content .detail-form ::placeholder{color:#626262;font-size: 14px;font-weight: 600;}
+.nearest-location .nearest-content .detail-form select{width: 95%;padding: 10px 15px;border-radius: 10px;border: 1px solid  rgb(223, 222, 222);background-color: #fff;color:#626262;}
+.nearest-location .nearest-content .detail-form textarea{color: #626262;font-size: 14px;font-weight: 600;width: 204%;border-radius: 10px;border: 1px solid rgb(223, 222, 222);padding: 10px;}
+.nearest-location .nearest-content .button a{background-color: #7D8928;font-size: 16px;color: white;padding: 13px 25px;border-radius: 10px;font-weight: 700;}
+.nearest-location .nearest-content .button {margin-top: 30px;}
+
+
+
+/* ....................................Blog.................................................................................................................................................... */
+.blog{padding: 60px 0px;}
+.blog .blog-content .card .card-img img{object-fit: cover;border-radius: 10px;transition: transform 0.4s ease-in;height: 250px;}
+.blog .blog-content .card .card-img a{position: relative;bottom:45px;left: 228px;text-decoration: none;font-size: 17px;background-color: white;color: #2a4049;padding: 6px 14px;border-radius: 25px;}
+.blog .blog-content .card .card-body .card-date{display: flex;justify-content: space-between;}
+.blog .blog-content .card {margin-bottom: 30px;background-color: #e9eadd;border-radius: 15px;overflow: hidden;padding: 20px;height: 520px;}
+.blog .blog-content .card .card-body p i{color: #99a537;}
+.blog .blog-content .card .card-body p{color:#565753;font-size: 16px;font-weight: 600;}
+.blog .blog-content .card .card-body .comment a{font-size: 16px;text-decoration: none;color: #565753;font-weight: 600;}
+.blog .blog-content .card .card-body .comment a i{color:#99a537 ;}
+.blog .blog-content .card .card-body h5{font-weight: 600;margin-bottom: 15px;font-size: 22px;}
+.blog .blog-content .card .card-body .card-text{font-size: 16px;font-weight: 500;margin-bottom: 15px;}
+.blog .blog-content .card .card-body .btn-primary{background-color: transparent;font-size: 17px;color: #565753;padding: 0px;}
+.blog .blog-content .card .card-body .btn-primary i{color: #99a537;}
+.blog .blog-content .card .card-body{padding: 0px;}
+.blog .blog-content .card :hover img{transform: scale(1.1);}
+.blog .blog-content ul span{background-color:#99a537;font-weight: 600;}
+.blog .blog-content ul a:hover{background-color: #99a537;font-weight: 600;color: white;}
+.blog .blog-content ul a {color:#99a537;}
+.pagination {--bs-pagination-active-border-color: #99a537 !important;}
+/* .......................................................................................................................................................................................................... */
+
+/* .................................................................................................................................................................................................................. */
+@media screen and (min-width: 320px) and (max-width: 769px){
+.header-top .header-top-content .header-top-left{display: none;}
+.banner .banner-content .banner-top{width: 100%;}
+.banner .banner-content .banner-top img{width: 30%;}
+.banner .banner-content .banner-right h6{font-size: 16px;}
+.banner .banner-content .banner-top h1{font-size: 40px;margin-top: 15px;}
+.banner .banner-content .button .btn-primary{padding: 16px 25px;font-size: 12px;}
+.btn-outline-primary{padding: 14px 34px;font-size: 12px;}
+.landscap .landscap-content .landscap-image{flex-direction: column;align-items: flex-start;}
+.landscap .landscap-content .landscap-image .image{margin-bottom: 0px;}
+.landscap .landscap-content .landscap-1{margin-bottom: 23px;}
+.landscap .landscap-content h2{padding: 20px 0px;font-size: 40px;}
+.landscap .landscap-content .card{margin-bottom: 20px;}
+.landscap .landscap-content .box{padding-top: 0px;}
+.care-professional .care-professional-content .care-image img{width: 50%;}
+.care-professional .care-professional-content .shurb-lawn-care h6{width: 60%;margin: 20px 0px;}
+.care-professional .care-professional-content .shurb-lawn-care h3{font-size: 30px;}
+.care-professional .care-professional-content .shurb-lawn-care p{font-size: 14px;}
+.care-professional .care-professional-content .shurb-lawn-care .social-media h2{font-size: 26px;}
+.box1 h3 i{font-size: 40px;}
+.box1 h3{font-size: 40px;margin: 20px 0px;}
+.features .our-feature-content .our-serice h6{font-size: 16px;}
+.features .our-feature-content .card{margin-bottom: 20px;}
+.offers .offer-content .row .form-box{display: block;}
+.footer-line p{font-size: 12px;}
+.footer .footer-content .footer-right{padding: 10px 0px;}
+.new-update .content .updates{display: block;}
+.new-update .content .updates p{width: 100%;}
+.experience-lawnshaper .experience-content h3{font-size: 40px;}
+.experience-lawnshaper{padding: 45px 0px;}
+.customer .customer-content .testimonial h3{font-size: 35px;}
+.customer .customer-content .words{border: 1px dotted rgb(50, 50, 50);border-radius: 10px;margin-bottom: 20px;}
+.customer .customer-content .testimonial h5{width: 43%;}
+.offers .offer-content textarea{width: 100%;}
+.offers .offer-content .offer-action label{font-size: 11px;}
+.offers .offer-content .offer-action .btn{font-size: 13px;}
+.swiper-slider .swiper-slider-content p{padding: 12px 101px;}
+.swiper-slider .swiper-slider-content img{margin: 0px;}
+.new-update .content .updates .search button{width: 90%;}
+.new-update .content .updates .search input{margin-bottom: 10px;width:180%;}
+.rating .rating-content .image .number h3{font-size: 45px;}
+.footer-line{flex-direction: column;}
+.navbar form{width: 230px;}
+.offers .offer-content .emergency{padding: 20px;}
+.offers .offer-content .service h6{font-size: 25px;}
+.offers .offer-content .service p{font-size: 14px;}
+.offers .offer-content .service .time h4{font-size: 15px;}
+.offers .offer-content .service{width: 100%;right: 0px;margin-bottom: 20px;}
+.rating .rating-content .image .number{justify-content: center;}
+.rating .rating-content .image p{text-align: center;}
+.customer .customer-content .customer{margin: 0px;padding: 16px;}
+.about-us-banner .about-us-content .banner-1 h3{font-size: 45px;}
+.our-company h2{padding: 30px 0px;font-size: 27px;}
+.our-company .company-content .lawnscap-system h3{font-size: 32px;}
+.our-company .company-content .lawnscap-system p{font-size: 14px;}
+.our-company .company-content .us-diffrence h3{font-size: 26px;}
+.our-company .company-content .us-diffrence .diffrences ul li{padding: 5px 0px;}
+.our-company .company-content .lawn-left{padding: 40px 25px;margin-top: 30px;}
+.our-company .company-content .lawnshaper-image h4{font-size: 18px;}
+.our-company .company-content .lawnshaper-image h3{font-size: 32px;}
+.our-company .company-content .lawnshaper-image p{padding-bottom: 15px;}
+.innovation-design .design-content h3{font-size: 25px;}
+.innovation-design .design-content .card{padding: 20px;margin-bottom: 20px;}
+.innovation-design .design-content .card img{width: 25%;}
+.process .process-content .outdoor-spacing .expertise h4{font-size: 17px;}
+.process .process-content .landscape-dream h3{font-size: 27px;}
+.process .process-content .accordion-flush .accordion-item .accordion-header{margin-bottom: 20px;}
+.our-feedback .our-feedback-content .feedback h3{font-size: 35px;margin-bottom: 20px;}
+.our-feedback .our-feedback-content .social-media{padding: 5px 10px;}
+.our-feedback .our-feedback-content .feedback-rating .rating-feed h4{font-size: 28px;}
+.our-feedback .our-feedback-content .social-med{margin-bottom: 20px;}
+.our-feedback .our-feedback-content .review{margin-bottom: 20px;}
+.our-feedback .our-feedback-content .review .customers .box-1 h4{font-size: 12px;}
+.our-feedback .our-feedback-content .review .customers .box-1 p{font-size: 12px;}
+.process .process-content .accordion-flush .accordion-item .collapsed{font-size: 17px;}
+.special-gardening .special-content .card-title{font-size: 17px;}
+.about-us-banner .about-us-content .banner-1 h3{font-size: 35px;}
+.about-us-banner .about-us-content ol li{font-size: 17px;}
+.special-gardening .special-content .card-text{font-size: 13px;}
+.special-gardening .special-content .gardening{font-size: 16px;}
+.nearest-location .nearest-content .map-fram iframe{width: 200px;height: 200px;}
+.nearest-location .nearest-content .popular-locations a{font-size: 29px;}
+.blog .blog-content .card .card-body p{font-size: 13px;}
+.blog .blog-content .card .card-body .comment a{font-size: 13px;}
+.blog .blog-content .card .card-body h5{font-size: 19px;}
+.blog .blog-content .card .card-body .card-text{font-size: 15px;}
+.blog .blog-content .card .card-img a{left: 130px;font-size: 14px;}
+}
+@media screen and (min-width: 769px) and (max-width: 992px){
+.navbar form{width: 40%;}
+.banner .banner-content .banner-top h1{font-size: 32px;}
+.landscap .landscap-content .award img{width: 25%;}
+.landscap .landscap-content .landscap-1{margin-bottom: 20px;}    
+.landscap .landscap-content .landscap-1 h6{font-size: 16px;}
+.landscap .landscap-content .landscap-1 h3{font-size: 30px;}
+.landscap .landscap-content .landscap-1 p{font-size: 14px;}
+.landscap .landscap-content .landscap-image .image{width: 70px;height: 67px;}
+.landscap .landscap-content .services .box1 p{padding: 5px 8px;}
+.landscap .landscap-content h2{font-size: 35px;margin-top: 10px;}   
+.landscap .landscap-content .card{padding: 11px 0px;margin-bottom: 20px;}
+.care-professional .care-professional-content .shurb-lawn-care .media-image img{width: 8%;}
+.care-professional .care-professional-content .shurb-lawn-care .social-media h2{font-size: 25px;}
+.care-professional .care-professional-content .shurb-lawn-care p{font-size: 14px;}
+.care-professional .care-professional-content .shurb-lawn-care h3{font-size: 30px;}
+.care-professional .care-professional-content .shurb-lawn-care h6{width: 23%;margin-top: 20px;font-size: 15px;}
+.care-professional .care-professional-content .care-image img{width: 30%;}    
+.features .our-feature-content .our-serice h6{font-size: 15px;}
+.features .our-feature-content .card{padding: 10px 20px;margin-bottom: 20px;}
+.features .our-feature-content .card-image img{width: 22%;}
+.rating .rating-content {width: 105%;}
+.rating .rating-content .image img{width: 30%;}    
+.rating .rating-content .image .number i{font-size: 26px;}
+.rating .rating-content .image p{font-size: 17px;}
+.rating .rating-content .image .number h3{font-size: 25px;}
+.customer .customer-content .line{margin-top: 20px;}    
+.customer .customer-content .customer .customer-rat p{font-size: 15px;}
+.customer .customer-content .customer .customer-rat h4{font-size: 15px;}
+.customer .customer-content .customer{margin-left: 0px;gap: 10px;}
+.customer .customer-content .our-customer{padding: 15px 20px;height: 215px;}
+.customer .customer-content .our-customer p{font-size: 13px;}
+.experience-lawnshaper .experience-content h3{font-size: 35px;}
+.experience-lawnshaper{padding: 70px 0px;}
+.our-serice h6{font-size: 14px;}
+.box1 h3{font-size: 27px;}
+.box1 h3 i{font-size: 45px;}
+.our-blog .blog-content .card .date p{font-size: 11px;}
+.our-blog .blog-content .card .card-body h5{padding: 0px 3px;font-size: 18px;}
+.swiper-slider .swiper-slider-content img{width: 50%;margin: 0px;}
+.footer .footer-content .footer-right .time{padding: 20px 0px;}
+.footer .footer-content .footer-img{padding: 10px 0px;}
+.footer .footer-content .footer-right{padding: 10px 0px;}    
+.footer .footer-content .footer-image img{width: 45%;}
+.our-company h2{font-size: 45px;padding: 30px 0px;}
+.our-company .company-content .lawn-left{margin-top: 30px;}
+.innovation-design .design-content h3{font-size: 40px;}
+.innovation-design .design-content .card img{width: 10%;}
+.innovation-design .design-content .card{margin-bottom: 20px;}
+.process .process-content .landscape-dream h3{font-size: 35px;}
+.our-feedback .our-feedback-content .social-med{margin-bottom: 20px;}
+.our-feedback .our-feedback-content .review{margin-bottom: 20px;}
+.footer-line{flex-direction: column;align-items: center;}
+.special-gardening .special-content .card-title{font-size: 20px;}
+.special-gardening .special-content .card-text{font-size: 15px;}
+.nearest-location .nearest-content .map-fram{margin-left: 45px;padding-bottom: 30px;}
+
+}
